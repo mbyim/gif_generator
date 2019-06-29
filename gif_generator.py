@@ -103,11 +103,6 @@ def envoke_shell_script(file_path, save_path, iterations, start_time=None, durat
 	print("Completed")
 	#return save_path, gif_name
 
-#gmail
-#martin.twitter.bots@gmail.com
-#S0ccer12!
-#S0ccer12! is also the twitter acc pass
-
 def pick_gif(save_path, gif_name):
 
 	#see if patrol is eligible and randomly choose from list if so
